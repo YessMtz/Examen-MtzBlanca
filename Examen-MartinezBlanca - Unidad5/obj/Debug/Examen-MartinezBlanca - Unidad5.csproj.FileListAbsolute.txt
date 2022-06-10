@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\Examen-MtzBlanca\Examen-MartinezBlanca - Unidad5\obj\Debug\Examen-MartinezBlanca - Unidad5.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\Examen-MtzBlanca\Examen-MartinezBlanca - Unidad5\obj\Debug\Examen-MartinezBlanca - Unidad5.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\Examen-MtzBlanca\Examen-MartinezBlanca - Unidad5\bin\Debug\Examen-MartinezBlanca - Unidad5.exe.config
+C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\Examen-MtzBlanca\Examen-MartinezBlanca - Unidad5\bin\Debug\Examen-MartinezBlanca - Unidad5.exe
+C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\Examen-MtzBlanca\Examen-MartinezBlanca - Unidad5\bin\Debug\Examen-MartinezBlanca - Unidad5.pdb
+C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\Examen-MtzBlanca\Examen-MartinezBlanca - Unidad5\obj\Debug\Examen-MartinezBlanca - Unidad5.exe
+C:\Users\admin\Desktop\REPOSITORIOS GIT HUB\Examen-MtzBlanca\Examen-MartinezBlanca - Unidad5\obj\Debug\Examen-MartinezBlanca - Unidad5.pdb
